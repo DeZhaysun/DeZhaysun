@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeZhaysun
 - 👀 I’m interested in software development, whether fullstack, machine learning, or devops
-- 🌱 I’m currently learning Operating Systems, Compilers and Algorithms
+- 🌱 I’m currently learning Machine Learning and AI
 - 📫 Reach out to me on LinkedIn! https://www.linkedin.com/in/jasontang03/
 - ✨ Checkout my website! https://dezhaysun.github.io/portfolio/
 
